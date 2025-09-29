@@ -8,6 +8,6 @@ Use the shell scripts to launch the evaluation. The evaluation setup follows the
   bash scripts/run_gd_7b.sh
   ```
   Remember to use your own  data path and  model path . Screenspot-v2 is supported now
-  
+  the system path in UI-Venus/models/grounding/ui_venus_ground_7b.py  should also be changed 
 
 
