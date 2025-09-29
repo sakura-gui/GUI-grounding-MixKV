@@ -9,3 +9,5 @@ Use the shell scripts to launch the evaluation. The evaluation setup follows the
   ```
   Remember to use your own  data path and  model path . Screenspot-v2 is supported now
   
+
+
